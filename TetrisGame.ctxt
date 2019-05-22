@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=TetrisGame
+comment0.text=\r\n\ This\ is\ a\ clone\ of\ the\ classic\ Tetris\ game.\r\n\ The\ GUI\ is\ the\ standard\ for\ GridWorld.\r\n\ It\ will\ compile\ and\ execute\ after\ class\ TetrisBug\ is\ written\r\n\ ...see\ Question\ 0\r\n
+comment1.params=
+comment1.target=void\ nextTetrisBlock()
+numComments=2

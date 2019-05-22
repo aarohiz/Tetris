@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=SquareBlock
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ SquareBlock\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=loc
+comment1.target=SquareBlock(info.gridworld.grid.Location)
+numComments=2
